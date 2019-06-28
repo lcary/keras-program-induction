@@ -1,0 +1,13 @@
+venv/
+.idea/
+__pycache__/
+*.img
+*.simg
+*~
+*.out
+*.pyc
+watchmem/
+*.log
+*.png
+.mypy_cache/
+*.state
