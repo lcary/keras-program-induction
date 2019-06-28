@@ -1,6 +1,8 @@
 keras-program-induction
 =======================
 
+Python 3.6 program induction implementations using Keras.
+
 Addition RNN
 ------------
 

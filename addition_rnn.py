@@ -156,7 +156,9 @@ model.summary()
 
 # Train the model each generation and show predictions against the validation
 # dataset.
-for iteration in range(1, 200):
+total_iterations = 200
+print(f'\nRunning for {total_iterations} iterations')
+for iteration in range(1, total_iterations):
     print()
     print('-' * 50)
     print('Iteration', iteration)
